@@ -3,7 +3,7 @@
 $settings['zwi']['servername'] = "DE484450SZWI\ZWIDAT"; //serverName\instanceName
 $settings['zwi']['user'] = "react";
 $settings['zwi']['database'] = "zwidat";
-$settings['zwi']['password'] = "haching34";
+$settings['zwi']['password'] = "";
 $settings['zwi']['fakey'] = 1;
 
 //* Einstellungen:
